@@ -517,7 +517,7 @@ def find_movies_with_multiple_directors() -> pd.core.frame.DataFrame:
     >>> type(movies_with_multiple_directors)
     pandas.core.frame.DataFrame
     >>> movies_with_multiple_directors.shape
-    (60, 3)
+    (56, 2)
     """
     ### BEGIN SOLUTION
     
